@@ -1,8 +1,6 @@
 ## Hello My Friend
 
-You can use the [editor on GitHub](https://github.com/loiryan/loiryan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mình là Ryan đẹp trai, minh thường chia sẻ kiến thức mà mình lụm lặt được từ cuộc sống qua website cá nhân [Gacontapcode](https://www.gacontapcode.com), nếu bạn muốn tìm kiếm những kiến thức liên quan đến MMO, các khóa học Online hay muốn tìm kiếm những phần mềm tiện ích dành cho máy tính và điện thoại thì đừng quên ghé thăm trang web của mình có rất nhiều thứ Hay đấy 😁.
 
 ### Markdown
 
