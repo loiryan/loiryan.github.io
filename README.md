@@ -21,4 +21,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://1.bp.blogspot.com/-Aqe18FbrCE8/Xw6evJmm6zI/AAAAAAAAEM0/gIkM627iJkIX7UZRhgSfgExBnpjxFObcQCLcBGAsYHQ/d/avatar-author-loi-ryan-gacontapcode-blogger.png)
