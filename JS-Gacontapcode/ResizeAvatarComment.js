@@ -1,1 +1,0 @@
-(function($) {$(&quot;.avatar-image-container&quot;).find(&quot;img&quot;).each(function(b,a){a=$(a);a.attr({src:a.attr(&quot;src&quot;).replace(/s35/,&quot;w55-h55&quot;)});a.attr(&quot;width&quot;,55);a.attr(&quot;height&quot;,55)});}(jQuery));
