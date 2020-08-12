@@ -1,0 +1,1 @@
+jQuery(function(n){document.body.clientWidth;n(document).ready(function(){n("ul.sf-menu").superfish({dropShadows:!1}),n("#topmenu-button").click(function(){return n("#small-screens-menu nav").slideToggle("slow"),!1}),n("#menu-icon").on("click",function(){jQuery(".sf-menu").toggle(),jQuery(this).toggleClass("active")})})});
