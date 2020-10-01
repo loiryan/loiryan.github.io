@@ -1,0 +1,1 @@
+var ListBlogLink = "https://techmagloiryan.blogspot.com"; var ImageSize = 480; document.write("<script src='"+ListBlogLink+"/feeds/posts/default/-/Blogger%20Tips?alt=json-in-script&amp;max-results=5&amp;callback=mbtlist' rel='preload'></"+"script>");
