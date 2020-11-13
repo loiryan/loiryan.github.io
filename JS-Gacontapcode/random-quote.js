@@ -73,7 +73,7 @@ var texts = {
   {
   if(randno==dem){
  document.write('<div><span style="color:'+color_text+';font-size:'+size_text+'">'+texts[author]+
-    '</span><span style="color:'+color_author+';font-size='+size_author+'">'+author+'</span></div>');
+    '</span><span style="color:'+color_author+';font-size:'+size_author+'">'+author+'</span></div>');
   } 
   dem++;
   }
