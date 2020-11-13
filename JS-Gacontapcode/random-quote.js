@@ -6,8 +6,8 @@ Email: loihuynh0202@gmail.com
 */
 var color_author="#5a70fa";
 var color_text="#1e3cfa";
-var size_author="1";
-var size_text="3";
+var size_author="10px";
+var size_text="14px";
 var texts = {
 " (H.F.Amiel)":"Học... Học để là chính mình, và học để từ bỏ với vẽ thanh cao những gì không phải là mình.",
 " (Ngạn ngữ Đức)":"Tuần lễ của người chăm chỉ có bảy ngày, còn tuần lễ của kẻ lười biến có bảy ngày mai.",
@@ -72,8 +72,8 @@ var texts = {
   for (author in texts)
   {
   if(randno==dem){
- document.write('<div><font color="'+color_text+'" size="'+size_text+'">'+texts[author]+
-    '</font><font color="'+color_author+'" size='+size_author+'>'+author+'</font></div>');
+ document.write('<div><span style="color:'+color_text+';font-size:'+size_text+'">'+texts[author]+
+    '</span><span style="color:'+color_author+';font-size='+size_author+'">'+author+'</span></div>');
   } 
   dem++;
   }
