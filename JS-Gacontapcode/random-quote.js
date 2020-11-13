@@ -4,10 +4,10 @@ Website 1: http://www.gacontapcode.com/
 Website 2: http://www.gacontemplate.com/
 Email: loihuynh0202@gmail.com
 */
-var color_author="#5a70fa";
-var color_text="#1e3cfa";
+var color_author="#46d1cb";
+var color_text="#989b9f";
 var size_author="12px";
-var size_text="14px";
+var size_text="13px";
 var texts = {
 " (H.F.Amiel)":"Học... Học để là chính mình, và học để từ bỏ với vẽ thanh cao những gì không phải là mình.",
 " (Ngạn ngữ Đức)":"Tuần lễ của người chăm chỉ có bảy ngày, còn tuần lễ của kẻ lười biến có bảy ngày mai.",
@@ -73,7 +73,7 @@ var texts = {
   {
   if(randno==dem){
  document.write('<div class="gc-danh-ngon"><span style="color:'+color_text+';font-size:'+size_text+'">'+texts[author]+
-    '</span><span style="color:'+color_author+';font-size:'+size_author+'">'+author+'</span></div>');
+    '</span><span style="color:'+color_author+';font-size:'+size_author+';display:block">'+author+'</span></div>');
   } 
   dem++;
   }
