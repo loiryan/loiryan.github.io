@@ -72,8 +72,8 @@ var texts = {
   for (author in texts)
   {
   if(randno==dem){
- document.write('<left><font color="'+color_text+'" size="'+size_text+'">'+texts[author]+
-    '</font><font color="'+color_author+'" size='+size_author+'>'+author+'</font></left>');
+ document.write('<div><font color="'+color_text+'" size="'+size_text+'">'+texts[author]+
+    '</font><font color="'+color_author+'" size='+size_author+'>'+author+'</font></div>');
   } 
   dem++;
   }
